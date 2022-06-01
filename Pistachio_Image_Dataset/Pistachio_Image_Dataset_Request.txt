@@ -42,7 +42,7 @@ Color Features (12 Features)
 20. StdDev_RR
 21. StdDev_RG
 22. StdDev_RB
-213. Skew_RR
+23. Skew_RR
 24. Skew_RG
 25. Skew_RB
 26. Kurtosis_RR
