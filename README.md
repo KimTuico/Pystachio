@@ -46,10 +46,12 @@ A confusion matrix of the model's predicted class and their actual class.
 
 ---
 Classification Report:
-[report](report.png)
+
+![report](report.png)
 
 Confusion Matrix:
-[matrix](confusionmat.png)
+
+![matrix](confusionmat.png)
 
 <h2>References</h2>
 
