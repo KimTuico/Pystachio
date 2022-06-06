@@ -41,3 +41,19 @@ Better formatted and more detailed version of test results.
 
 7. <h3>Confusion Matrix</h3>
 A confusion matrix of the model's predicted class and their actual class.
+
+<h2>Results</h2>
+
+---
+Classification Report:
+[report](report.png)
+
+Confusion Matrix:
+[matrix](confusionmat.png)
+
+<h2>References</h2>
+
+---
+1. OZKAN IA., KOKLU M. and SARACOGLU R. (2021). Classification of Pistachio Species Using Improved K-NN Classifier. Progress in Nutrition, Vol. 23, N. 2, pp. DOI:10.23751/pn.v23i2.9686.  (Open Access) https://www.mattioli1885journals.com/index.php/progressinnutrition/article/view/9686/9178
+
+2. SINGH D, TASPINAR YS, KURSUN R, CINAR I, KOKLU M, OZKAN IA, LEE H-N., (2022). Classification and Analysis of Pistachio Species with Pre-Trained Deep Learning Models, Electronics, 11 (7), 981. https://doi.org/10.3390/electronics11070981. (Open Access)
